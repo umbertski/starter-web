@@ -23,3 +23,8 @@ can be on any webserver or even on a local
 file system.
 
 ## How to Contribute
+
+
+## Copyright
+
+2020 Git.Training.
