@@ -24,6 +24,8 @@ file system.
 
 ## How to Contribute
 
+Please fork this directory then issue Pull Requests
+for review
 
 ## Copyright
 
